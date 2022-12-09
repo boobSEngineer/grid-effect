@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+.canvas {
+    width: 100vw;
+    height: 100vh;
+    overflow:  hidden;
+    image-rendering: pixelated;
+}
+
